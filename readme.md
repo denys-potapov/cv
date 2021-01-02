@@ -1,3 +1,4 @@
 # Curriculum vitae
 
-	lualatex denys.potapov.tex 
+	lualatex --interaction=nonstopmode denys.potapov.tex
+
